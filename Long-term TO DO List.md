@@ -10,7 +10,7 @@
 - Mixes 2D art into 3D environments for immersive gameplay
 - Players will play as cute and deeply customizable mouse characters to collect objective items and return them to the goal on a plethora of custom-made maps
 - Players score points by reaching the goal, and more by finishing in the top 3. One player will bestow magical powers on some maps to guide (or attack) other players
-- Several playable game modes: Casual, Ranked, Bootcamp, and more!
+- Several playable game modes: Casual, Ranked, Bootcamp, and more
 - Create custom maps to share with the community and make friends
 - Anticipate fresh content updates over time
 
