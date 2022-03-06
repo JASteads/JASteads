@@ -10,4 +10,4 @@ JASteads/JASteads is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-See here for my list of dream projects on my long-term To-do list: [Placeholder]
+See here for my list of dream projects on my long-term To-do list: https://github.com/JASteads/JASteads/blob/3f5cfb129d26ff1de94483ffa58cc11cf4997fb1/Long-term%20TO%20DO%20List.md
