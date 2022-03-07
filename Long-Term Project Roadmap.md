@@ -1,4 +1,4 @@
-***LONG-TERM PERSONAL PROJECT TODO LIST --***
+***LONG-TERM PERSONAL PROJECT ROADMAP --***
 1. **Cat Clicker**
 - An idle clicker game that is deeply inspired by the classic Cookie Clicker by Ortiel
 - The game will take the best elements of Cookie Clicker and enhance them with fun pixelated visuals and vivid colors
