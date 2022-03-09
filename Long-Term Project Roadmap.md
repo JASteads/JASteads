@@ -39,7 +39,7 @@
 
 SHORTER SIDE-PROJECTS --
 
-1. Time with Femon
+1. **Time with Femon**
 - A 2D simulation that introduces the player to Femon, an excitable mouse with cloudy purple hair
 - Get to know Femon and befriend her. The more the player learns about her, the more he can talk about
 - The player has a limited time to complete the experience before the run ends
