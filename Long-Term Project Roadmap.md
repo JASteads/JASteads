@@ -21,6 +21,7 @@
 
 4. **TORO (Placeholder Name)**
 - A turn-based action RPG featuring a small cast of unlikely allies on a quest to discover the greatest treasures of the world
+- Control the flow of battle by exploiting enemy weak points and outperforming them. Every enemy is its own riddle
 - Explore the vast, lore-filled world and take on the many, many possible ways to advance (or ruin) the story
 - Countless paths and endings, all of varying difficulty and outcomes
 - Game will explore the potential of a 2D and 3D world through advanced visual effects and shaders
@@ -29,9 +30,17 @@
 - An extremely fast-paced action adventure game that challenges the finesse and awareness of the player
 - Most advanced 3D project, requiring stunning visual implementation, crafty AI, and optimal performance
 - Embark on the short story of Syg, an alien in a world that can't contain it
-- Speed through zones at blinding speeds, dodging (or confronting) hostile entities that stand in the player's way
-- Chase after a strange yet threatening rival in a world that's ripping apart in real time throughout the campaign
+- Speed through zones at blinding speeds, dodging (or confronting) hostile entities that stand in the way
+- Chase after a strange yet threatening rival in a world that's ripping apart in real time
 - Beat the clock and take down Syg's rival, or fall into the alternate campaign in the destroyed world to discover its meaning
 
 6. **TBD**
 - ..
+
+SHORTER SIDE-PROJECTS --
+
+1. Time with Femon
+- A 2D simulation that introduces the player to Femon, an excitable mouse with cloudy purple hair
+- Get to know Femon and befriend her. The more the player learns about her, the more he can talk about
+- The player has a limited time to complete the experience before the run ends
+- How does the story with Femon end?
