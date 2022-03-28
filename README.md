@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 See here for my list of dream projects on my long-term To-do list: https://github.com/JASteads/JASteads/blob/main/Long-term%20TO%20DO%20List.md
+
+No time to play the games yourself? See gameplay of their current state here: https://drive.google.com/drive/folders/1eL30Z8D6D81bYBlcDz4_e4fFomzmE14n?usp=sharing
