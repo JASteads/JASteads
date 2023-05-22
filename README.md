@@ -10,6 +10,6 @@ JASteads/JASteads is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-See here for my list of dream projects on my long-term To-do list: https://github.com/JASteads/JASteads/blob/main/Long-term%20TO%20DO%20List.md
+See here for my list of dream projects on my long-term To-do list: [https://github.com/JASteads/JASteads/blob/main/Long-term%20TO%20DO%20List.md](https://github.com/JASteads/JASteads/blob/main/Long-Term%20Project%20Roadmap.md)
 
 No time to play the games yourself? See gameplay of their current state here: https://drive.google.com/drive/folders/1eL30Z8D6D81bYBlcDz4_e4fFomzmE14n?usp=sharing
