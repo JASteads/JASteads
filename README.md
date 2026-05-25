@@ -1,6 +1,6 @@
 - 👋 Hello all, I'm Jonavinne Steadham. I'm 27 years old and a software engineer with six years of experience and counting.
 - 👀 I'm highly invested in video game development, UI/UX design, and program optimization.
-- 🌱 My best programming langugages are C/C++, C#, and Python. I also have some experience with web development and Java.
+- 🌱 My best programming langugages are C/C++, C#, and Python. I am also practicing full-stack web development.
 - 💞️ I'm currently working on my very first indie video game: Cat Clicker 2025
 - 🔥 Check out my itch.io to see my older prototype projects! https://lemonfaace.itch.io/
 - 📫 Phone : (737) 701-6880 | Email : jasteads@gmail.com | Discord : Lemonfaace#4311
