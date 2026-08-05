@@ -1,5 +1,5 @@
 - 👋 Hello all, I'm Jonavinne Steadham. I'm 27 years old and a software engineer with six years of experience and counting.
-- 👀 I'm highly invested in video game development, UI/UX design, and program optimization. I love building systems from scratch.
+- 👀 I'm highly invested in video game development, UI/UX design, and program optimization. I love building systems from scratch and taking full control of my work.
 - 🌱 My best programming langugages are C/C++, C#, and TypeScript.
 - 💞️ I'm currently working on my very first indie video game: Cat Clicker 2025
 - 🔥 Check out my itch.io to see my older prototype projects! https://lemonfaace.itch.io/
