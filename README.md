@@ -3,7 +3,7 @@
 - 🌱 My best programming langugages are C/C++, C#, and TypeScript.
 - 💞️ I'm currently working on my very first indie video game: Cat Clicker 2025
 - 🔥 Check out my itch.io to see my older prototype projects! https://lemonfaace.itch.io/
-- 📫 Phone : (737) 701-6880 | Email : jasteads@gmail.com | Discord : Lemonfaace#4311
+- 📫 Phone : (737) 701-6880 | Email : jasteads@gmail.com | Discord : lemonfaace
 
 <!---
 JASteads/JASteads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
